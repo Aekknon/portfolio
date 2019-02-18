@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+        <center><font size = "7">This is my portfolio</font></center><br>
+        <center><img src="tae.jpg" alt="tae.com" width="300" height="300"></center>
+        <center><h2>My name is Aekknon Phomsiriudom </h2></center>
+        <center><h2>My nickname is tae </h2></center>
+        <center><button>My work</button></center>
+    </body>
+</html>
